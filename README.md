@@ -1,7 +1,11 @@
-Totem: Ubuntu
+Totem: Ubuntu (Deprecated)
 =========================
 
 This repos is used to build a base Ubuntu image for use in Docker.
+
+Note: This repository and image has been deprecated. Please use:
+- totem/totem-base:trusty
+- ubuntu:trusty
 
 ## Image Name
 
